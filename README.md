@@ -13,6 +13,6 @@ Grouping Patients: Categorizes patients based on age, blood pressure, heart rate
 Visualization of Groups: Visualizes the distribution of patient groups based on various health categories.
 
 Usage:
-Clone the repository: git clone https://github.com/your-username/health-monitoring-analysis.git
+Clone the repository
 Install the required dependencies: pip install -r requirements.txt
 Run the Python scripts to perform health monitoring and analysis.
